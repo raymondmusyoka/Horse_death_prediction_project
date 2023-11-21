@@ -1,2 +1,2 @@
-# Horse_death_prediction_project
+# Horse-death-prediction-project
 A project to show factors leading to death of horses based on their health characteristics
